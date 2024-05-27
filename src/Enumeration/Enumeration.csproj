@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+	<ImplicitUsings>enable</ImplicitUsings>
+	<Nullable>enable</Nullable>
+	<PackageId>AliNawar.Enumeration.</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>ALI Nawar</Authors>
+	<Product>BehavioralEnumeration</Product>
+  </PropertyGroup>
+</Project>
